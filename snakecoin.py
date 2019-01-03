@@ -1,6 +1,6 @@
 # Idea from
-# https://medium.com/crypto-currently/lets-build-the-tiniest-blockchain-e70965a248b
-# https://github.com/schedutron/SnakeCoin
+# http://bit.ly/2AUFic6
+# http://bit.ly/2AWktNu 
 
 import hashlib as hasher
 import datetime as date
