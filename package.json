@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "flask-node": "^0.5.2"
+  }
+}
