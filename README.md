@@ -1,3 +1,4 @@
+<img src="https://github.com/React7Tech/slatestudio-assessment/blob/master/Screen%20Shot%202019-01-03%20at%207.46.11%20PM.png"><p>
 # SnakeCoin eWallet
 Tiniest blockchain implementation in python assessment test for JustEd aka Aidy ed@react7.press for Slate Studio 
 * http://slatestudio.com/
