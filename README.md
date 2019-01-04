@@ -61,6 +61,11 @@ The Homescreen<p>
 ... 
 
 This project some part was was generated with [yarn,electron-vue, electron,expo]
-But i'm sorry--- you may view my code and deploy it that assessing via bitbucket due github not permit repo to be private. (Free Version! and don't trust github)
+But i'm sorry--- you may view my code and deploy it that assessing via bitbucket due github not permit repo to be private. (Free Version! and i don't trust github)
 BitBucket Url: https://bitbucket.org/react7store/snakecoin-wallet-rn-redux/src
 or you may clone that first in advanced ~ $ git clone https://react7store@bitbucket.org/react7store/snakecoin-wallet-rn-redux.git
+
+Owh btw my team organisation i.d with Docker Hub is react7store.
+
+Warmest regards..
+JustEd aka R. Aidy
