@@ -39,5 +39,5 @@ Hash: 6119367e51e2ed1015d5c86bcf2c2671351ac5d4ad188703f015bb49ec8783b4
 
 This project some part was was generated with [yarn,electron-vue, electron,expo]
 But i'm sorry--- you may view my code and deploy it assessing that via bitbucket due github not permit repo to be private (Free Version!)
-BitBucket Url: https://bitbucket.org/react7store/snakecoin-ewallet/
-or you may clone that first in advanced ~ $ git clone https://react7store@bitbucket.org/react7store/snakecoin-ewallet.git
+BitBucket Url: https://bitbucket.org/react7store/snakecoin-wallet-rn-redux/src
+or you may clone that first in advanced ~ $ git clone https://react7store@bitbucket.org/react7store/snakecoin-wallet-rn-redux.git
