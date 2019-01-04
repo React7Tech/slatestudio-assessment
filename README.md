@@ -46,7 +46,19 @@ The Homescreen<p>
 ## Android Screenshots with Expo
 ---
 <img src="https://github.com/React7Tech/slatestudio-assessment/blob/master/a.png"><br>
-
+<img src="https://github.com/React7Tech/slatestudio-assessment/blob/master/b.png"><br>
+<img src="https://github.com/React7Tech/slatestudio-assessment/blob/master/c.png"><br>
+<img src="https://github.com/React7Tech/slatestudio-assessment/blob/master/d.png"><br>
+<img src="https://github.com/React7Tech/slatestudio-assessment/blob/master/e.png"><br>
+<img src="https://github.com/React7Tech/slatestudio-assessment/blob/master/f.png"><br>
+<img src="https://github.com/React7Tech/slatestudio-assessment/blob/master/g.png"><br>
+<img src="https://github.com/React7Tech/slatestudio-assessment/blob/master/h.png"><br>
+<img src="https://github.com/React7Tech/slatestudio-assessment/blob/master/i.png"><br>
+<img src="https://github.com/React7Tech/slatestudio-assessment/blob/master/j.png"><br>
+<img src="https://github.com/React7Tech/slatestudio-assessment/blob/master/k.png"><br>
+<img src="https://github.com/React7Tech/slatestudio-assessment/blob/master/l.png"><br>
+<img src="https://github.com/React7Tech/slatestudio-assessment/blob/master/m.png"><br>
+... 
 
 This project some part was was generated with [yarn,electron-vue, electron,expo]
 But i'm sorry--- you may view my code and deploy it that assessing via bitbucket due github not permit repo to be private. (Free Version! and don't trust github)
