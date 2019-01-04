@@ -65,6 +65,10 @@ But i'm sorry--- you may view my code and deploy it that assessing via bitbucket
 BitBucket Url: https://bitbucket.org/react7store/snakecoin-wallet-rn-redux/src
 or you may clone that first in advanced ~ $ git clone https://react7store@bitbucket.org/react7store/snakecoin-wallet-rn-redux.git
 
+or
+Expo Documentation:
+https://expo.io/@react7press/slatestudio-mhubvendor
+
 Owh btw my team organisation i.d with Docker Hub is react7store.
 
 Warmest regards..
