@@ -36,6 +36,10 @@ Hash: 6119367e51e2ed1015d5c86bcf2c2671351ac5d4ad188703f015bb49ec8783b4
 ```
 
 ---
+# The eWallet Blockchain React-Native / Redux App
+
+<img src="https://github.com/React7Tech/slatestudio-assessment/blob/master/Screen%20Shot%202019-01-04%20at%202.07.10%20PM.png"><br>
+Splash Screen>
 
 This project some part was was generated with [yarn,electron-vue, electron,expo]
 But i'm sorry--- you may view my code and deploy it assessing that via bitbucket due github not permit repo to be private (Free Version!)
