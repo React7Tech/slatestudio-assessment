@@ -44,18 +44,18 @@ Splash Screen(don't mind about that satanic leviathan design.. im inspired from 
 The Homescreen<p>
 
 ## Android Screenshots with Expo
-<img src=“https://github.com/React7Tech/slatestudio-assessment/blob/master/a.png” width=“50%”><p>
-<img src=“https://github.com/React7Tech/slatestudio-assessment/blob/master/b.png” width=“50%”><p>
-<img src=“https://github.com/React7Tech/slatestudio-assessment/blob/master/c.png” width=“50%”><p>
-<img src=“https://github.com/React7Tech/slatestudio-assessment/blob/master/d.png” width=“50%”><p>
-<img src=“https://github.com/React7Tech/slatestudio-assessment/blob/master/f.png” width=“50%”><p>
-<img src=“https://github.com/React7Tech/slatestudio-assessment/blob/master/g.png” width=“50%”><p>
-<img src=“https://github.com/React7Tech/slatestudio-assessment/blob/master/h.png” width=“50%”><p>
-<img src=“https://github.com/React7Tech/slatestudio-assessment/blob/master/i.png” width=“50%”><p>
-<img src=“https://github.com/React7Tech/slatestudio-assessment/blob/master/j.png” width=“50%”><p>
-<img src=“https://github.com/React7Tech/slatestudio-assessment/blob/master/k.png” width=“50%”><p>
-<img src=“https://github.com/React7Tech/slatestudio-assessment/blob/master/l.png” width=“50%”><p>
-<img src=“https://github.com/React7Tech/slatestudio-assessment/blob/master/m.png” width=“50%”><p>
+<img src=“https://github.com/React7Tech/slatestudio-assessment/blob/master/a.png”><p>
+<img src=“https://github.com/React7Tech/slatestudio-assessment/blob/master/b.png”><p>
+<img src=“https://github.com/React7Tech/slatestudio-assessment/blob/master/c.png”><p>
+<img src=“https://github.com/React7Tech/slatestudio-assessment/blob/master/d.png”><p>
+<img src=“https://github.com/React7Tech/slatestudio-assessment/blob/master/f.png”><p>
+<img src=“https://github.com/React7Tech/slatestudio-assessment/blob/master/g.png”><p>
+<img src=“https://github.com/React7Tech/slatestudio-assessment/blob/master/h.png”><p>
+<img src=“https://github.com/React7Tech/slatestudio-assessment/blob/master/i.png”><p>
+<img src=“https://github.com/React7Tech/slatestudio-assessment/blob/master/j.png”><p>
+<img src=“https://github.com/React7Tech/slatestudio-assessment/blob/master/k.png”><p>
+<img src=“https://github.com/React7Tech/slatestudio-assessment/blob/master/l.png”><p>
+<img src=“https://github.com/React7Tech/slatestudio-assessment/blob/master/m.png”><p>
 
 This project some part was was generated with [yarn,electron-vue, electron,expo]
 But i'm sorry--- you may view my code and deploy it that assessing via bitbucket due github not permit repo to be private. (Free Version! and don't trust github)
