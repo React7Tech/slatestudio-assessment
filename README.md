@@ -171,10 +171,10 @@ JustEd aka R. Aidy
 This project some part was generated with [electron, vue, yarn, and expo]
 But i'm sorry--- you may view my /src via bitbucket due github not permit my repo to be private. (Free Version! and i don't trust github)
 BitBucket Url: https://bitbucket.org/react7store/snakecoin-wallet-rn-redux/src
-or you may clone that first in advanced ~ $ git clone https://react7store@bitbucket.org/react7store/snakecoin-wallet-rn-redux.git
-or
+or you may clone that first in advanced ~ $ git clone https://react7store@bitbucket.org/react7store/snakecoin-wallet-rn-redux.git<p>
+or<p>
 Expo Documentation:
-https://expo.io/@react7press/slatestudio-mhubvendor
+https://expo.io/@react7press/slatestudio-mhubvendor<p>
 
 Use this credentials to log the demo user:<p>
      User: demo<br>
