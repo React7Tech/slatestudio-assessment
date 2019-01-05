@@ -75,11 +75,10 @@ The Homescreen<p>
 <img src="https://github.com/React7Tech/slatestudio-assessment/blob/master/m.png"><br>
 ... 
 
-This project some part was was generated with [yarn,electron-vue, electron,expo]
-But i'm sorry--- you may view my code and deploy it that assessing via bitbucket due github not permit repo to be private. (Free Version! and i don't trust github)
+This project some part was generated with [electron, vue, yarn, and expo]
+But i'm sorry--- you may view my /src via bitbucket due github not permit my repo to be private. (Free Version! and i don't trust github)
 BitBucket Url: https://bitbucket.org/react7store/snakecoin-wallet-rn-redux/src
 or you may clone that first in advanced ~ $ git clone https://react7store@bitbucket.org/react7store/snakecoin-wallet-rn-redux.git
-
 or
 Expo Documentation:
 https://expo.io/@react7press/slatestudio-mhubvendor
