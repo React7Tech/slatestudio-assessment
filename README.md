@@ -49,6 +49,14 @@ The Homescreen<p>
 ## The Sourcecode
 <img src="https://github.com/React7Tech/slatestudio-assessment/blob/master/Configjs.png"><br>
 ~/common/Config.js<p>
+<img src="https://github.com/React7Tech/slatestudio-assessment/blob/master/Layoutjs.png"><br>
+~/common/Layout.js<p> 
+<img src="https://github.com/React7Tech/slatestudio-assessment/blob/master/Constantjs.png"><br>
+~/common/Constant.js<p>
+<img src="https://github.com/React7Tech/slatestudio-assessment/blob/master/Languagejs.png"><br>
+~/common/Language.js<p>
+<img src="https://github.com/React7Tech/slatestudio-assessment/blob/master/Indexjs.png"><br>
+~/common/Index.js<p>
 
 ## Android Screenshots with Expo
 ---
