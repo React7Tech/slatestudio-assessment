@@ -46,6 +46,10 @@ Splash Screen(don't mind about that satanic leviathan design.. im inspired from 
 <img src="https://github.com/React7Tech/slatestudio-assessment/blob/master/Screen%20Shot%202019-01-04%20at%202.07.42%20PM.png"><br>
 The Homescreen<p>
 
+## The Sourcecode
+<img src="https://github.com/React7Tech/slatestudio-assessment/blob/master/Configjs.png"><br>
+~/common/Config.js<p>
+
 ## Android Screenshots with Expo
 ---
 <img src="https://github.com/React7Tech/slatestudio-assessment/blob/master/a.png"><br>
