@@ -1,4 +1,4 @@
-<img src="https://github.com/React7Tech/slatestudio-assessment/blob/master/Screen%20Shot%202019-01-03%20at%207.46.11%20PM.png"><p>
+<img src="https://github.com/React7Tech/slatestudio-assessment/blob/master/scw.png"><p>
 # SnakeCoin eWallet with .py (python)
 Part 1. 
 Tiniest blockchain implementation in python assessment test for JustEd aka Aidy ed@react7.press for Slate Studio 
@@ -40,9 +40,7 @@ Hash: 6119367e51e2ed1015d5c86bcf2c2671351ac5d4ad188703f015bb49ec8783b4
 # Blockchain eWallet with React-Native/ Redux and NodeJs
 Part 2.
 ## My version eWallet Blockchain React-Native / Redux App
-
-<img src="https://github.com/React7Tech/slatestudio-assessment/blob/master/Screen%20Shot%202019-01-04%20at%202.07.10%20PM.png"><br>
-Splash Screen(don't mind about that satanic leviathan design.. im inspired from 2018 movies demonologist)<p>
+---
 <img src="https://github.com/React7Tech/slatestudio-assessment/blob/master/Screen%20Shot%202019-01-04%20at%202.07.42%20PM.png"><br>
 The Homescreen<p>
 
