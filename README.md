@@ -149,36 +149,3 @@ Owh btw my team organisation i.d with Docker Hub is react7store.
 
 Warmest regards..
 JustEd aka R. Aidy
-
----
-<img src="https://github.com/React7Tech/slatestudio-assessment/blob/master/a.png"><br>
-<img src="https://github.com/React7Tech/slatestudio-assessment/blob/master/b.png"><br>
-<img src="https://github.com/React7Tech/slatestudio-assessment/blob/master/c.png"><br>
-<img src="https://github.com/React7Tech/slatestudio-assessment/blob/master/d.png"><br>
-<img src="https://github.com/React7Tech/slatestudio-assessment/blob/master/e.png"><br>
-<img src="https://github.com/React7Tech/slatestudio-assessment/blob/master/f.png"><br>
-<img src="https://github.com/React7Tech/slatestudio-assessment/blob/master/g.png"><br>
-<img src="https://github.com/React7Tech/slatestudio-assessment/blob/master/h.png"><br>
-<img src="https://github.com/React7Tech/slatestudio-assessment/blob/master/i.png"><br>
-<img src="https://github.com/React7Tech/slatestudio-assessment/blob/master/j.png"><br>
-<img src="https://github.com/React7Tech/slatestudio-assessment/blob/master/k.png"><br>
-<img src="https://github.com/React7Tech/slatestudio-assessment/blob/master/l.png"><br>
-<img src="https://github.com/React7Tech/slatestudio-assessment/blob/master/m.png"><br>
-... 
-
-This project some part was generated with [electron, vue, yarn, and expo]
-But i'm sorry--- you may view my /src via bitbucket due github not permit my repo to be private. (Free Version! and i don't trust github)
-BitBucket Url: https://bitbucket.org/react7store/snakecoin-wallet-rn-redux/src
-or you may clone that first in advanced ~ $ git clone https://react7store@bitbucket.org/react7store/snakecoin-wallet-rn-redux.git<p>
-or<p>
-Expo Documentation:
-https://expo.io/@react7press/slatestudio-mhubvendor<p>
-
-Use this credentials to log the demo user:<p>
-     User: demo<br>
-     Pass:1234<p>
-
-Owh btw my team organisation i.d with Docker Hub is react7store.
-
-Warmest regards..
-JustEd aka R. Aidy
