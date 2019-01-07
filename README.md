@@ -1,27 +1,5 @@
 <img src="https://github.com/React7Tech/slatestudio-assessment/blob/master/scw.png"><p>
 # SnakeCoin eWallet with .py (python)
----
-# Blockchain eWallet with React-Native/ Redux and NodeJs
-Part 2.
-## My version eWallet Blockchain React-Native / Redux App
----
-<img src="https://github.com/React7Tech/slatestudio-assessment/blob/master/Screen%20Shot%202019-01-04%20at%202.07.42%20PM.png"><br>
-The Homescreen<p>
-
-## The Sourcecode
-<img src="https://github.com/React7Tech/slatestudio-assessment/blob/master/Configjs.png"><br>
-~/common/Config.js<p>
-<img src="https://github.com/React7Tech/slatestudio-assessment/blob/master/Layoutjs.png"><br>
-~/common/Layout.js<p> 
-<img src="https://github.com/React7Tech/slatestudio-assessment/blob/master/Constantjs.png"><br>
-~/common/Constant.js<p>
-<img src="https://github.com/React7Tech/slatestudio-assessment/blob/master/Languagejs.png"><br>
-~/common/Language.js<p>
-<img src="https://github.com/React7Tech/slatestudio-assessment/blob/master/Indexjs.png"><br>
-~/common/Index.js<p>
-
-## Android Screenshots with Expo<img src="https://github.com/React7Tech/slatestudio-assessment/blob/master/Screen%20Shot%202019-01-03%20at%207.46.11%20PM.png"><p>
-# SnakeCoin eWallet with .py (python)
 Part 1. 
 Tiniest blockchain implementation in python assessment test for JustEd aka Aidy ed@react7.press for Slate Studio 
 * http://slatestudio.com/
@@ -57,6 +35,28 @@ Block #3 has been added to the blockchain!
 3  /  2019-01-03 20:28:49.257515  /  Hey! I'm block 3  /  4003bf32fe
 Hash: 6119367e51e2ed1015d5c86bcf2c2671351ac5d4ad188703f015bb49ec8783b4
 ```
+
+---
+# Blockchain eWallet with React-Native/ Redux and NodeJs
+Part 2.
+## My version eWallet Blockchain React-Native / Redux App
+---
+<img src="https://github.com/React7Tech/slatestudio-assessment/blob/master/Screen%20Shot%202019-01-04%20at%202.07.42%20PM.png"><br>
+The Homescreen<p>
+
+## The Sourcecode
+<img src="https://github.com/React7Tech/slatestudio-assessment/blob/master/Configjs.png"><br>
+~/common/Config.js<p>
+<img src="https://github.com/React7Tech/slatestudio-assessment/blob/master/Layoutjs.png"><br>
+~/common/Layout.js<p> 
+<img src="https://github.com/React7Tech/slatestudio-assessment/blob/master/Constantjs.png"><br>
+~/common/Constant.js<p>
+<img src="https://github.com/React7Tech/slatestudio-assessment/blob/master/Languagejs.png"><br>
+~/common/Language.js<p>
+<img src="https://github.com/React7Tech/slatestudio-assessment/blob/master/Indexjs.png"><br>
+~/common/Index.js<p>
+
+## Android Screenshots with Expo<img src="https://github.com/React7Tech/slatestudio-assessment/blob/master/Screen%20Shot%202019-01-03%20at%207.46.11%20PM.png"><p>
 
 ---
 # Blockchain eWallet with React-Native/ Redux and NodeJs
