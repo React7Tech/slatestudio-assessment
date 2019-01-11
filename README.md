@@ -41,6 +41,7 @@ Hash: 6119367e51e2ed1015d5c86bcf2c2671351ac5d4ad188703f015bb49ec8783b4
 Part 2.
 ## My version eWallet Blockchain React-Native / Redux App
 ---
+<img src="https://github.com/React7Tech/slatestudio-assessment/blob/master/welcome.png"><p>
 <img src="https://github.com/React7Tech/slatestudio-assessment/blob/master/Screen%20Shot%202019-01-04%20at%202.07.42%20PM.png"><br>
 The Homescreen<p>
 
