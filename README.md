@@ -1,5 +1,5 @@
 # SYNOPSIS
-<img src=""><br>
+<img src="https://github.com/React7Tech/slatestudio-assessment/blob/master/ggg.svg"><p>
 This is the work repository for the Blockchain eWallet main test assesment for slate's studio implementation project.
 Current development stage: CONCEPT ANALYSIS / EARLY DEVELOPMENT
 
