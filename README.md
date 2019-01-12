@@ -57,7 +57,7 @@ The Homescreen<p>
 <img src="https://github.com/React7Tech/slatestudio-assessment/blob/master/Indexjs.png"><br>
 ~/common/Index.js<p>
 
-## Android Screenshots with Expo<img src="https://github.com/React7Tech/slatestudio-assessment/blob/master/Screen%20Shot%202019-01-03%20at%207.46.11%20PM.png"><p>
+<img src="https://github.com/React7Tech/slatestudio-assessment/blob/master/Screen%20Shot%202019-01-03%20at%207.46.11%20PM.png"><p>
 
 ---
 # Blockchain eWallet with React-Native/ Redux and NodeJs
