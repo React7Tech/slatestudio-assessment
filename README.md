@@ -71,7 +71,7 @@ Splash Screen.<p>
 ## The wallet extensions
 <img src="https://github.com/React7Tech/slatestudio-assessment/blob/master/blockchain-test.png"><br>
 <img src="https://github.com/React7Tech/slatestudio-assessment/blob/master/wallet-altcoin.png"><br>
-Default value are be set for free usd5.00
+Default credit value are be set to $5.00
 
 ## The Sourcecode
 <img src="https://github.com/React7Tech/slatestudio-assessment/blob/master/Configjs.png"><br>
