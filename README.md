@@ -68,7 +68,7 @@ Part 2.
 Splash Screen.<p>
 <img src="https://github.com/React7Tech/slatestudio-assessment/blob/master/Screen%20Shot%202019-01-04%20at%202.07.42%20PM.png"><br>
 
-## The Homescreen and wallet extensions
+## The wallet extensions
 <img src="https://github.com/React7Tech/slatestudio-assessment/blob/master/blockchain-test.png"><br>
 
 ## The Sourcecode
