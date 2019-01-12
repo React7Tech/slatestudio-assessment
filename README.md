@@ -71,7 +71,9 @@ Splash Screen.<p>
 ## The wallet extensions
 <img src="https://github.com/React7Tech/slatestudio-assessment/blob/master/blockchain-test.png"><br>
 <img src="https://github.com/React7Tech/slatestudio-assessment/blob/master/wallet-altcoin.png"><br>
-Default credit value are be set to $5.00
+Default credit value are be set to $5.00<br>
+<img src="https://github.com/React7Tech/slatestudio-assessment/blob/master/Screen%20Shot%202019-01-12%20at%201.07.19%20PM.png"><br>
+eWallet backend interface for admin to transfer amount to others users.<br>
 
 ## The Sourcecode
 <img src="https://github.com/React7Tech/slatestudio-assessment/blob/master/Configjs.png"><br>
